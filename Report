@@ -1,0 +1,923 @@
+“IMPACT OF INTERNET BANKING SYSTEM AND TECHNOLOGIES IN INDIA”
+
+
+Chapter -1
+
+INTRODUCTION
+
+The banks have become an essential component of most of the economies as banking services are described as “engines for economic growth” or act as “conduits towards promoting economic growth”. In recent years the world economy has gone through a new phenomenon which is considered as one the most important changes since the industrial revolution, i.e. the birth of “Internet-based Economy”. Considering the benefits of using internet the banks have started to invest in this newly created market. At the initial level, banks mainly focus on developing the commercial web- sites, with the purpose of promoting their products and services using the internet. Gradually, it was realized by banks that the Internet can be an effective distribution channel too. Now with the changing times the traditional approach of banking is being changed and banks are trying to match up with the recent advancement in the field of technology. Revolutionary developments in information and communication technology (ICT) in the past 20 years have changed the way how banks deal with their bank customers. With the rapid development of technology, internet plays a significant role in changing the banking scenario. It provides an online platform for various banking transactions through which it offers various services like online payment, online fund transfer, online stock trading and online shopping etc. The use of internet as a delivery channel for banking services is increasing widely in banking sector. Internet banking facilities enable financial institution and customers to access their accounts, transactions and getting information on financial products & services. Now a day’s most of the commercial banks have launched various services through internet banking including latest service like opening online saving accounts and demand for these services is increasing rapidly. The concept of internet banking is fairly a new concept in India as compared to its developed counterparts. So the research deals with defining the concept of Internet banking. 
+Banking through internet has emerged as a strategic resource for achieving higher efficiency, control of operations and reduction of cost by replacing paper based and labor intensive methods with automated processes thus leading to higher productivity and profitability. Nonetheless, recent empirical studies indicate that Internet banking is not having an independent effect on banking profitability, although these findings may change as the use of the Internet becomes more widespread.
+Broadly, the levels of banking services offered through INTERNET can be categorized in three types:
+ (i) The Basic Level Services use the banks’ websites which disseminate information on different products and services offered to customers and members of public in general. It may receive and reply to customers’ queries through e-mail.
+ (ii) In the next level are Simple Transactional Websites which allow customers to submit their instructions, applications for different services, queries on their account balances, etc. but do not permit any fund-based transactions on their accounts.
+ (iii) The third level of Internet banking services are offered by Fully Transactional Websites which allow the customers to operate on their accounts for transfer of funds, payment of different bills, subscribing to other products of the bank and to transact purchase and sale of securities, etc. (RBI, 2001)
+Most of the banks providing Internet banking products and services offer, to a large extent, an identical and standard package of banking services and transactional capabilities. In general, Internet banking products are offered in a two-tiered structure. A basic tier of Internet banking products includes customer account inquiry, funds transfer and electronic bill payment. A second or premium tier includes basic services plus one or more additional services. The list of Internet banking products and services is not inclusive.
+Basic:  Account inquiry, Funds transfer, electronic bill presentment and payment.
+Premium:  Brokerage, Cash management, Credit applications, Credit and debit cards, Customer correspondence, Demat holdings, Financial advice 8) Foreign exchange trading, Insurance. , Online trading, Opening accounts, Requests and intimations, Tax services, E-shopping, Standing instructions, Investments Asset management services etc.
+Internet plays vital role between banks and customers to receive and deliver information, this form of banking is described as Internet banking (Reserve Bank of India, 2001). 
+The process in which internet and computer device are used as a medium to facilitate banking services is termed as internet banking. Internet banking is a web-based service that enables the banks authorized customers to access their account information. It permits the customers to log on to the banks website with the help of bank’s issued identification and personal identification number (PIN). The banking system verifies the user and provides access to the requested services, the range of products and service offered by each bank on the internet differs widely in their content. Banks have traditionally been in the forefront of harnessing technology to improve their products, services and efficiency. Banks are using electronic and telecommunication networks for delivering a wide range of value added products and services. The delivery channels include direct dial – up connections, private networks, public networks etc. and the devices include Personal Computers. With the popularity of PCs, easy access to Internet and World Wide Web (WWW), Internet is increasingly used by banks as a channel for receiving instructions and delivering their products and services to their customers. Most of the banks offer internet banking as a value-added service.
+Internet banking system is a system that has been developed in order to help clients with the daily day to day transactions. Internet banking system means that clients can now do banking at the leisure of their homes. Also known as online banking the system allows both transactional and non-transactional features. Online banking or internet banking allows customer to conduct financial transactions on a secure website operated by the retail or virtual bank. Online banking is the practice of making bank transactions or paying bills via the Internet. Thanks to technology, and the Internet in particular, we no longer have to leave the house. We can shop online, communicate online, and now, we can even do our banking online. Online banking allows us to make deposits, withdrawals and pay bills all with the click of a mouse. Itdoesn't get much more convenient than that.
+So basically, Internet banking is the technology that allows banking customers to do the things they would normally do in their bank from the comfort of home with connection to the Internet.
+
+
+
+
+
+Evolution of Internet Banking in India
+Indian banking industry, today, is in the midst of an IT revolution. The technology changes have put forth the competition among the banks. This has led to increasing total banking automation in the Indian banking industry. New private sector banks and foreign banks have an edge over public sector banks as far as implementation of technological solutions is concerned. However, the later are in the process of making huge investment in technology.
+The financial reforms that were initiated in the early 90s and the globalization and liberalization measures brought in a completely new operating environment to the banks. Services and products like “Anywhere Banking,” “Tele-Banking,” “Internet Banking,” “Web Banking,” “E-Banking” etc. have become the buzzwords of the day and the banks are trying to cope with the competition by offering innovative and attractively packaged technology based services to their customers.
+Like most of other activities in banking RBI also set up two committees in quick succession to accelerate the pace of automation of operations in the banking sector. In the early 80s, a high level committee was formed under the chairmanship of Dr. C. Rangarajan, then Governor of RBI, to draw up a phased plan for computerization and mechanization in the banking industry over a five year time frame of 1985-89. The focus by this time was on customer service and two models of branch automation were developed and implemented. Having gained experience in the earlier mode of computerization, the second Rangarajan committee constituted in 1988 drew up a detailed perspective plan for computerization of banks and for extension of automation to other areas like funds transfer, e-mail, BANKNET, SWIFT, ATMs, Internet banking etc.
+The Government of India enacted the Information Technology Act, 2000, generally known as IT Act, 2000, with effect from the 17th October 2000 to provide legal recognition to electronic transactions and other means of Electronic Commerce. Reserve bank of India had set up a ‘Working Group on Internet Banking’ to examine different aspects of Internet banking (I-banking). The Group had focused on three major areas of Internet-banking i.e.,
+(i)	technology and security issues, 
+(ii)	(ii) legal issues and
+(iii)	 (iii) Regulatory and supervisory issues.
+ RBI had accepted the recommendations of the Working Group and accordingly issued guidelines on Internet banking in India for implementation by banks. The Working Group has also issued a report on Internet banking covering different aspects of I-banking.
+Considerable progress has been made in consolidating the existing payment systems and in upgrading technology with a view to establishing an efficient, integrated and secure system functioning in a real-time environment. Major projects under implementation are electronic clearing, centralized funds management, structured financial messaging solutions and the Indian Financial Network (INFINET). Facilities under Electronic Funds Transfer (EFT) have been upgraded and their spatial reach expanded with multiple settlements in a day. Foreign exchange clearing has been initiated through the Clearing Corporation of India Limited (CCIL).
+Adequate security features are being incorporated into the EFT. Preparatory work for the real time gross settlement (RTGS) is complete. (RBI, 2001).
+As per an Internet survey conducted by NASSCOM the Indian Internet market grew steadily in terms of subscribers. There is a growth of 30% in March 2002 compared to the 1.1 million active subscriber base in March 2001. The survey also forecasts that the number of Internet subscribers in the year 2004-05 is likely to reach 7.7 million, with the user base to grow over 50 million. India's Internet user base is growing at a rapid pace. India's Internet population grows to 29 million by March 2003 from 10.7 million in 2002. Banking and finance market has got the largest share i.e. 21 percent among the other sectors of economy in using information technology. Thus there is a lot of scope for banking institutions to expand their Internet banking services to have a more sophisticated customer base.
+Private and foreign banks have been the early adopters of e-banking while the Public sector banks are also beginning to hold on to the competition. ICICI Bank and HDFC Bank have taken a lead in introducing e-banking in India. ICICI Bank is the first one to have introduced Internet banking for a limited range of services such as access to account information; correspondence for the first time in 1996 and recently, funds transfer between its branches (Rajneesh and Padmanabhan, 2002). ICICI is also getting into e trading, thus offering a broader range of integrated services to the customer. Other banks also followed the suit. However, 1996- 98 was the period of Internet banking adoption while the Internet banking usage gained importance only in 1999. After ICICI, Citibank, IndusInd Bank and HDFC Bank were the early ones to adopt the technology in 1999. This paper is confined to the study of Internet banking services offered by private, public and foreign banks operating in India.
+
+ Drivers of Internet Banking include:
+1) Improve customers’ access.
+2) Facilitate the offerings of more services.
+3) Increase customer loyalty.
+4) Attract new customer.
+5) Provide services offered by competitors.
+6) Reduce customer attrition.
+Broadly, the levels of banking services offered through INTERNET can be categorized in to three types: 
+(i)	The Basic Level Service is the banks’ websites which disseminate information on different products and services offered to customers and members of public in general. It may receive and reply to customers’ queries through e-mail,
+(ii)	In the next level are Simple Transactional Websites which allow customers to submit their instructions, applications for different services, queries on their account balances, etc. but do not permit any fund-based transactions on their accounts
+(iii)	 The third level of Internet banking services are offered by Fully Transactional Websites which allow the customers to operate on their accounts for transfer of funds, payment of different bills, subscribing to other products of the bank and to transact purchase and sale of securities, etc. The above forms of Internet banking services are offered by traditional banks, as an additional method of serving the customer or by new banks, who deliver banking services primarily through Internet or other electronic delivery channels as the value added services. Some of these banks are known as ‘virtual’ banks or ‘Internet only ‘banks and may not have any physical presence in a country despite offering different banking services.
+
+
+From the perspective of banking products and services being offered through Internet,
+Internet banking is nothing more than traditional banking services delivered through an electronic communication backbone, viz, Internet. But, in the process it has thrown open issues which have ramifications beyond what a new delivery channel would normally envisage and, hence, has compelled regulators world over to take note of this emerging channel.
+STATUS OF INTERNET BANKING IN INDIA
+Indian banks have a wonderful history. Banks were started during British mandate; they formed many large and small private banks. After independence, Indian government revealed interest towards banks which results the nationalization of banks, leading to the emergence of the public sector banks. Later on in 90‟s the banking industry embracing technology in a massive way, led in particular by the new private banks and MNC banks. The Indian banking industry has undergone unprecedented rivalry among unconventional banking organizations. The introduction of latest technologies along with the deregulation of the banking sector has attracted new players to make a foray into the industry rapidly and competently. Online banking has made things much easier and has saved lot of time of bank employees as well as general public. The traditional way of waiting in a queue and filling up all the forms manually, is no hassle now for transacting with any bank. Banks in India are offering wide range of their services and their products through internet banking. Some of the major services and products in India are: 
+
+
+Statements:
+Provide account statement (account info), Balance enquiry, balance statement and transaction reports used. Customers can even download and print the statement of accounts. Online Fund Transfer:
+Transfer funds between accounts, even if they are in different branches or cities. Customer can also transfer funds to any person having an account with the same bank anytime, anywhere, using third party funds transfer option. 
+Bill Payment Service:
+Banks Bill Payment is the easiest way to manage bills. Account holder can pay their regular monthly bills i.e. telephone, electricity, mobile phone, insurance etc. at anytime, anywhere for free. Saves time and effort. Make bill payments at customer’s convenience form their home or office. Let’s account holders check their bill amount before it is debited form their account. 
+Requests and Intimations:
+ Can electronically submit a request for Cheque-book, stop payment instructions, Opening a fixed deposit, Opening a recurring deposit, Intimate for the loss of ATM card, Register online for phone and mobile banking, Cheque status, Online application for debit card, Issue a DD or a Banker’s cheque form account at special rates.
+Demat Account and Share Trading Demat Account:
+ Demat is commonly used abbreviation of „Dematerialization‟, which is a process whereby securities like share, debentures are converted from the „material‟ (paper documents) into electronic data and stored in the computer of an electronic Depository. A depository is a security „banks, where dematerialized physical securities are held in custody, and form where they can be traded. This facilitates faster, risk-free and low-cost settlement.
+ According to a report by Boston Consulting Group (BCG), In India, out of 1.2 billion s, only 200 million people having bank accounts, which is only 17 % of Indian and according to McKinsey report (2011) (fig. 4.1), with 120 million internet, India has third largest internet in the world after China and the US and India targeted for 330--370 million internet users in 2015 which will make it second largest internet. In same report, it is mention that in made positive improvement in e-commerce (fig. 4.2).
+ Further it is reported that 7% of account holders in the country are using the Internet for banking transactions, while branch banking has fallen by a full 15 percentage points.
+
+
+
+THE FUTURE OF INTERNET BANKING
+All the major Banks in India are trying to promote online transactions in the country including the rural parts of the country. Being a huge fan of e-Governance, Indian Prime Minister – Mr. Narendra Modi has initiated a project estimated at INR 20,000 crores to build a broadband highway connecting 2.5 lakh panchayats across the country. Once fully set up, this infrastructure would help the rural India connect with the urban India while boosting the rate of online transactions in the country. Despite the rosy predictions and increased corporate activity, the Indian Internet banking system is facing many hurdles. The problems include operational risks, security risks, system architecture risks, reputational risks and legal risks (See Exhibit I for Problems in Internet Banking). Apart from the security issues, there are a host of other problems like: 
+• PC user base in India is extremely low compared to global standards. 
+• The Internet user base is limited. 
+• Lack of infrastructure to advanced technology-based banking services. 
+• The absence of a regulatory framework for Internet banking transactions in India. 
+• The mindset of the Indian consumer, who prefers personal interactions and is not very comfortable, doing transactions through the Internet. 
+
+However, banks are working towards addressing these problems. The security issues can be tackled by having the bank's systems technologically equipped to evade operational and security risks. Reputational risks can be prevented by testing of the system before implementation, developing contingency plans (to handle system disruptions, system hackers, security lapses and virus attacks) and creating back-up facilities. Legal and cross-border risks can be avoided through proper customer identification devices, information screening techniques, periodic reviews on compliance with various laws, and gaining knowledge of various national laws (applicable) and guide the customers through their cross-border dealings.
+
+
+
+
+Chapter -2
+Literature review
+
+National Literature Reviews
+Pooja Malhotra & Balwinder Singh (2009)
+ In their research paper “The Impact of Internet Banking on Bank Performance and Risk: The Indian Experience”. The paper describes the current state of Internet banking in India and discusses its implications for the Indian banking industry. Particularly, it seeks to examine the impact of Internet banking on banks’ performance and risk. Using information drawn from the survey of 85 scheduled commercial bank’s websites, during the period of June 2007, the results show that nearly 57 percent of the Indian commercial banks are providing transactional Internet banking services. The univariate analysis indicates that Internet banks are larger banks and have efficiency ratios and profitability as compared to non-Internet banks. Internet banks rely more heavily on core deposits for funding than non-Internet banks do. However, the multiple regression results reveal that the profitability and offering of Internet banking does not have any significant association, on the other hand, Internet banking has a significant and negative association with risk profile of the banks. 
+In 2014 their paper presents data, drawn from a survey of commercial banks websites, on the number of commercial banks that offer Internet banking and, on the products, and services they offer. It investigates the profile of commercial banks that offer Internet banking, using univariate statistical analysis, relative to other commercial banks with respect to profitability, cost efficiency, and other characteristics. By the end of first quarter, 2004, differences between Internet and non-Internet banks had begun to emerge in funding, in sources of income and expenditures and in measures of performance. It was also found that the profitability and offering of Internet banking does not have any significant correlation.
+
+KPMG, “Technology enabled transformation in Banking”, The Economic Times Banking Technology, Conclave 2011, this article has concluded that banking will be transformed by new technology by 2015.customer friendly products, delivery channel, easy and accessible services and competitive pricing would be driving forces-and technology shall pay a dominant role in all these. Models using mobile devices and efficient payment systems will make banking services more widely available 24 x 7.
+
+Vikas Chauhan and Vipin Chaudhary (2015) 
+The present paper attempts to understand the concept of internet banking as well as study the benefit of internet banking from perspective of consumers as Well as banks. Further, this paper discusses the challenges and opportunities associated with the internet banking in Indian context. The discussion Concludes that Concept of Internet banking Is slowly gaining Acceptance in Indian Scenario and Efforts are Being made by government Agencies to make It more Popular among consumers.
+
+Rakesh H M & Ramya T J (2014) 
+In their research paper titled “A Study on Factors Influencing Consumer Adoption of Internet Banking in India” tried to examine the factors that influence internet banking adoption. Using PLS, a model is successfully proved and it is found that internet banking is influenced by its perceived reliability, Perceived ease of use and Perceived usefulness. In the marketing process of internet banking services marketing expert should emphasize these benefits its adoption provides and awareness can also be improved to attract consumers’ attention to internet banking services. 
+
+Ankit Kesharwani & Gajulapally Radhakrishna (2013)
+ In their research paper “Drivers and Inhibitors of Internet Banking Adoption in India”. This paper research on different banks is on condition that e-banking services, as this would revolutionize their profits. Since internet banking in India is still in its nascent stage, it is essential for e-banking institutions to enhance reception and usage of internet as a banking channel by their customers. This paper has reviewed the most of seminal studies in the area of diffusion of innovation and makes an attempt to do experimental research that looked into the factors that drives and inhibits internet banking usage in India. An investigative factor analysis followed by a positive factor analysis has been applied on 362 internet banking users. Findings resulted in seven factors – perceived benefit, hacking and fraud risk, performance risk, computer self-efficacy, technology intricacy, social influence, and pricing concerns. The results suggest that acceptance and usage of internet banking services can turn into a fundamental concern for future research, as the drivers overcoming the inhibitors over time at an influencing rate. Moreover, this study also compares the findings with extant diffusion of innovation literature and identified several additional factors that can affect internet banking adoption in India.
+
+
+
+International Literature Review
+Shaza W. Ezzi (April 2014)
+ In their research paper titled “A Theoretical Model for Internet Banking: Beyond Perceived Usefulness and Ease of Use” tried to inquired different types of electronic banking like ATM’s, telephone banking, and electronic funds transfer, Internet banking like has evolved from consumers’ needs to have superior access to banking services clear of most banks teller-staffed, normal operating hours. Additionally, Internet banking has grown swiftly from the recent and the span increases in ecommerce. Internet banking (IB) continues to govern the landscape of electronic banking as consumers continue to use IB to complete schedule banking transactions in addition to conducting on-line sales and purchasing. This study presents a theoretical model considered to help researchers and practitioners better understand the acceptance and adoption of Internet Banking. The proposed model maybe particularly useful in developing nations where consumers are loath to use Internet Banking even when the services are available. However, a review of several studies that have investigated consumers’ acceptance of Internet banking services from a multiplicity of perspectives have not reached a clear consensus of the factors that contribute to overall consumer acceptance and adoption. The paper concludes with discussions of the managerial implications and avenues for future research.
+
+Nabil Hussein Al-Fahim (2013)
+ In his research titled “An tentative Study of Factors distressing the Internet Banking espousal: A Qualitative Study among Postgraduate Students” tried to find out the factors that affect the internet banking espousal among postgraduate’ students in International Islamic University Malaysia (IIUM).Approach- Semi structured interviews with eight informant; four adopters and four non-adopters on postgraduate’ students were conducted to explore this issue. The results revealed that adopters and on-adopters realized that internet banking (IB) has quite a lot of benefits and amenities. However, non-adopters were concerned about some factors like trust, ease of use, awareness and security. The results also showed that adopters had positive influence on use of online banking and they did not have problems with these factors because they had sufficient knowledge and experience in using online banking. The findings are important to enable bank Executives to have a better understanding of clients’ perception to adopt internet banking. This will help banks’ managers and owners formulate strategies that could significantly affect IBA among their customers.
+
+
+Dorra Gherib (2014)
+ In their research paper titled “Adoption and diffusion of internet banking: case of Tunisian banking sector “tried to observe the embracing of Internet banking in the Tunisian banking industry. The aim is to make out factors that accelerate or slow down the implementation process. The literature review enables identifying a set of variables: organizational, individual and structural. The research methodology used within this study is the case study. Five case studies in banking sector were executed. The sample is shaped by banks that adopted the Internet Baking as a modernization. The analysis allowed the willpower of the related dimensions of the aforesaid variables (competition, perceived benefits, and organizational compatibility). Indeed, this research has exposed some variables that hamper the implementation of technological innovations.
+
+Donnelie K Muzividzi, Rangarirai Mbizi & Tinashe Mukwazhe (2013) 
+In their research paper “An Analysis of Factors That Influence Internet Banking Adoption among Intellectuals: Case of Chinhoyi University of Technology“. This paper investigate the adoption on internet banking has remained sluggish despite the efforts by banks to promote the technology. The purpose of the research project was to identify the factors that affect the adoption of internet banking in a bid to construct ways to salvage the situation. The research focused on intellectuals who better understand technology than the general public. Data was collected using questionnaires and interviews from the population of 5000 students and academic staff at Chinhoyi University of Technology. A sample of 450 students and staff were selected from the population. The research identified various factors that impose barriers and enhance adoption of internet banking. Chief among these were compromised security of transactions and marketing exposure. It also unearthed the impact of demographic on internet banking adoption. Two hypotheses were tested, the first one which was meant to determine if there exist any relationship between age and internet banking adoption. It was concluded that there is a negative relationship between age and internet banking adoption. The second hypothesis assumed an association between internet banking and level of education. Education was deemed a prerequisite in enhancing the smooth adoption of internet banking and hence one should have a significant level of education to take up the technology. In waging a protracted war against low levels of internet banking adoption the research concluded banks should rather concentrate in promoting the product (internet banking). Bank should also institute measures to guarantee the security of transactions to internet bank users as this remains the stumbling block to many potential customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter -3
+RESEARCH METHODOLOGY
+
+
+The present study is based on the secondary data collected from different journals, taken from previous surveys, sites and published data from various issues of RBI and different Public sector banks. Various studies on this subject have also been referred in this study.The present study is an attempt to examine the performance of Indian banks in terms of providing Internet banking products and services. This section explains in detail the objectives, recent trends of internet banking.
+ 
+
+Research Objectives of the Study
+The purpose of this research report is to help fill significant gaps in knowledge about the Internet banking landscape in India. The research presents data, drawn from a survey of commercial banks websites, on the number of commercial banks that offer Internet banking and on the products and services they offer. It investigates the profile of commercial banks that offer Internet banking, relative to other commercial banks with respect to profitability, cost efficiency, and other characteristics.
+A search was executed on the World Wide Web using a combination of knowledge of Web sites and search tools (predominately the www.google.com) to discover the ‘home pages’ (main Web sites) of the 93 banks comprising 30 Private, 27 Public and 36 foreign banks.
+•	To find out the frequency and the factors that influences the adoption of Internet-Banking services.
+•	To measure the satisfaction level of people regarding Internet-Banking.
+•	To understand the problems encountered in by people while using Internet-Banking services (ATM, Phone Banking, etc.)
+Universe of the study
+The universe of the study consists of all scheduled commercial banks operating in India. There are 289 scheduled commercial banks operating in India as on 31st March 2014. Scheduled commercial banks comprise 27 Public Sector banks, 30 Private Sector banks, 36 foreign banks and 196 Regional Rural banks.
+
+Sample of the Study
+For the purpose of the study a sample of 93 banks is considered, out of which 36 are foreign banks, 27 are public sector banks and 30 are private sector banks. The sample consists nearly 32 percent of the universe. In case of foreign banks, only those banks are studied which provide Internet banking.
+
+Recent Trends of Internet Indian banks 
+The banking industry is going through a period of rapid change to meet competition, challenges of technology and the demand of end user. Clearly technology is a key differentiator in the performance of banks. Banks need to look at innovation not just for product but for process also. 
+
+Today, technology is not only changing the environment but also the relationship with customers. Technology has not broken many barriers but has also brought about superior products and channels. This has brought customer relationship into greater focus. It is also viewed as an instrument of cost reduction and effective communication with people and institutions associated with the banking business. The RBI has assigned priority to the up gradation of technological infrastructure in financial system. Technology has opened new product and services, new market and efficient delivery channels for banking industry. IT also provides the framework for banking industry to meet challenges in the present competitive environment. IT enables to cut the cost of global fund transfer. Some of the recent Internet Banking devices described as below-
+Electronic Payment and Settlement System- The most common media of receipts and payment through banks are negotiable instruments like cheques. These instruments could be used in place of cash. The interbank cheques could be realized through clearing house systems. Initially there was a manual system of clearing but the growing volume of banking transaction emerged into the necessity of automating the clearing process.
+ In order to strength the institutional framework of electronic & clearing system, RBI constituted a board for regulation and supervision of payment and settlement system (BPSS) in 2005.The Payment & settlement system act was passed on 2007 which empowered the RBI to regulate & supervise the payment and settlement system and provide a legal basis for multilateral netting and settlement. 
+
+Important innovation in payment & settlement system introduced by RBI are below- 
+
+Use Of MICR Technology- Among the most important improvement in paper based clearing system was the introduction of MICR (Magnetic Ink Character Recognition) in the mid 1980s. MICR overcomes the limitation of clearing the cheques within banking hours and thus enables the customer to get the credit quickly. These are machine-readable codes added at the bottom of every cheque leaf which helped in bank and branch-wise sorting of cheques for smooth delivery to the respective banks on whom they are drawn. This no doubt helped in speeding up the clearing process, but physical delivery of cheques continued even under this partial automaton. 
+
+CTS (Cheque Truncation System)- The CTS was launched on pilot basis in New Delhi in 2008 with the participation of 10 Banks. Truncation means stopping the flow of the physical cheques issued by a drawer to the drawee branch. The physical instrument is truncated at some point en route to the drawee branch and an electronic image of the cheque is sent to the drawee branch along with the relevant information like the MICR fields, date of presentation, presenting banks etc. This would eliminate the need to move the physical instruments across branches, except in exceptional circumstances, resulting in an effective reduction in the time required for payment of cheques, the associated cost of transit and delays in processing, etc., thus speeding up the process of collection or realization of cheques. 
+Every bank customer is expected to obtain new cheque books from their respective banks as early as possible preferably before the end of December 2012. All bank customers should use only “CTS 2010” cheques, which have more security features with effect from 1 January 2013. 
+
+
+Electronic Fund Transfer (EFT) - The EFT System was implemented in 1995 covering 15 centers where the Reserve Bank managed the clearing houses. Special EFT (SEFT) scheme, a variant of the EFT system, was introduced with effect from April 1, 2003, in order to increase the coverage of the scheme and to provide for quicker funds transfers. SEFT was made available across branches of banks that were computerized and connected via a network enabling transfer of electronic messages to the receiving branch in a straight through manner (STP processing). In the case of EFT, all branches of banks in the 15 locations were part of the scheme, whether they are networked or not. 
+A new variant of the EFT called the National EFT (NEFT) was decided to implemented (November 2005) so as to broad base the facilities of EFT. NEFT provided for integration with the Structured Financial Messaging Solution (SFMS) of the Indian Financial Network (INFINET). The NEFT uses SFMS for EFT message creation and transmission from the branch to the bank’s gateway and to the NEFT Centre, thereby considerably enhancing the security in the transfer of funds. The commencement of NEFT led to discontinuation of SEFT, and EFT is now available only for government payments.
+
+Real Time Gross Settlement (RTGS) - RTGS was launched by RBI in 2004 which enabled a real time settlement on a gross basis. RTGS system is a funds transfer mechanism where transfer of money takes place from one bank to another on a “real time” and on “gross basis”. This is the fastest possible money transfer system through the banking channel. Settlement in “real time” means payment transaction is not subjected to any waiting period. The transactions are settled as soon as they are processed. “Gross settlement” means the transaction is settled on one to one basis without bunching with any other transaction. 
+RTGS system is used only for large value transactions and retail transactions take an alternate channel of electronic funds transfer, a minimum threshold of one lakh rupees was prescribed for customer transactions under RTGS on January 1, 2007. 
+
+Core banking Solutions (CBS) - Computerization of bank branches had started with installation of simple computers to automate the functioning of branches, especially at high traffic branches. Core Banking Solutions (CBS) is the networking of the branches of a bank, so as to enable the customers to operate their accounts from any bank branch, regardless of which branch he opened the account with. The networking of branches under CBS enables centralized data management and aids in the implementation of internet and mobile banking. Besides, CBS helps in bringing the complete operations of banks under a single technological platform. 
+
+Automated Teller Machine (ATM) - ATMs were introduced to the Indian banking industry in the early 1990s initiated by foreign banks. It is perhaps most revolutionary aspect of virtual banking. The facility to use ATM is provided through plastic cards with magnetic strip containing information about the customer as well as the bank. In today's world ATMs are the most useful tool to ensure the concept of "Any Time Banking" and "Any Where Banking”. The total number of ATMs installed in India by various banks as of end January 2018 was 108111 On-site and 99083 Off-site.The new private sector banks in India have the most offsite ATMs, followed by off-site ATMs belonging to SBI and its subsidiaries and then by nationalized banks and foreign banks, while on-site is highest for the nationalized banks of India.
+
+ATMs of scheduled commercial bank as on Jan-2018
+Bank Type 
+	No. of Branches 	On Site ATMS 	Off Site ATMs 	Total ATMs 
+Nationalized Banks 
+	33,627 	38,606 	23,265 	61,871 
+State Bank of India
+	13,661 	31,926 	22,827 	51,753 
+Old Private Sector Banks 
+	4,511 	11,761 	12,298	24,059
+New Private Sector Banks 
+	11,685 	23,523	36,839 	60,362
+Foreign Banks 
+	242 	2,295 	3,854 	6,149 
+TOTAL 	63,726 	1,08,111	99,083	2,07,194
+
+Customer Relationship Management (CRM) 
+- (CRM) refers to the methodologies and tools that help businesses manage customer relationships in an organized way-finding, getting and retaining customers. CRM processes that help to provide employees with the information they need to know their customers' wants and needs and build relationships between the company and its customers.
+
+Design For Data Collection
+The data for this study are unique in several respects. First, the data cover the Internet banking offerings of every commercial bank. Secondly, the information was compiled from the websites of the respective banks between mid-December 2014 and December end 2015 for 289 scheduled commercial banks. Data is although confined to commercial banks only; the data are broadly applicable to the banking system at large. As of December end 2015, commercial banks accounted for 32 percent of all banks and 96 percent of all banking system assets.
+Various Internet banking services are considered for the purpose of making comparative analysis and ranking of private, public and foreign banks. The Internet banking services have been classified into two major categories:
+1) BASIC Internet banking is defined as the three core Internet banking services: balance enquiry, funds transfer and bill payment.
+2) PREMIUM Internet banking is defined as BASIC plus at least three other services. However for the purpose of this paper 30 services have been included.
+
+
+
+
+
+
+Chapter -4
+
+Analysis of Internet Banking in India
+
+In India, slowly but steadily, the Indian customer is moving towards Internet banking. A number of banks have either adopted Internet Banking or are on the threshold of adopting it. The banks started Internet banking initially with simple functions such as getting information about interest rates, checking account balances and computing loan eligibility. Then the services were extended to online bill payment, transfer of funds between accounts and cash management services for corporate. Recently, banks have started to facilitate payment for e-commerce transactions by directly debiting bank accounts or through credit cards. It will add to the revenues of the banks.
+
+ 
+This table shows the percentage of users of Internet Banking is increasing fastly. As in year 2000 to 2005 and 2015 to 2016, users increase at fast rate.
+ 
+This table shows the rise in the internet banking fraud day to day. As March, 2017 to December, 2017 there is highly increasing the fraud cases and the amount of fraud in these months increasing tremendously.
+
+1.Consumer Behavior and Concerns: Usage Patterns 
+A significant proportion of Internet banking users (56.5%) use Internet banking 1-5 times a month, which is low compared to the e-developed countries, and also Asian counterparts like Korea and Japan. Another 31.5% are using e-banking 6-10 a month. Daily users of Internet banking are almost absent and the percentage of those using once in two days is meager to establish any significance probably because of low Internet penetration. However researches indicate that in spite of low availability of sophisticated branch networks, spread of Internet would promote I-banking. 
+
+
+
+
+
+
+Table 1.1: Gender Wise Usage of the Internet Banking
+
+Frequency of Use (Times per Month) 	Percentage of Total Respondents 
+	Female 	Male 	Total 
+Never 	- 	- 	1.0% 
+1-5 	15.8% 	40.7% 	56.5% 
+6-10 	9.3% 	22.2% 	31.5% 
+10-15 	3.7% 	1.9% 	5.6% 
+16-20 	- 	2.7% 	2.7% 
+Above 20 	- 	2.7% 	2.7% 
+
+
+Table 1.2: Education Background and Internet Banking
+Frequency of Use (Times per Month) 	Percentage of Total Respondents 
+	Under -Graduate 	Graduate 	Post-Graduate 	Professional 
+Never 	- 	- 	- 	- 
+1-5 	2.8% 	37.8% 	11.2% 	5.6% 
+6-10 	- 	1.6% 	9.3% 	6.5% 
+10-15 	- 	- 	0.1% 	4.7% 
+16-20 	- 	0.1% 	0.2% 	- 
+Above 20 	- 	0.1% 	0.1% 	0.1% 
+
+A significant variation exists between the various banks for the frequency of usage (F= 7.503) with high value for Indian private banks followed by multinational banks. Interviews conducted at banks revealed that the use of Internet banking is mainly attributable to day-to-day transactions, which is further confirmed by the questionnaire responses. Gender wise usage of the Internet banking reflects a polarization towards males (Table 1.1). These results are obvious because the conventional, brick and mortar banking is also dominated by the male users. This implies a good scope for the Indian banks to capitalize the opportunity and focus on females. Research studies conducted by IAMAI also indicates that male users constitute the major chunk of the Internet banking population (www.iamai.in). In India, female workers in the organized sector have been conventionally low. But, the recent trends show a potential for significant rise in the female working population especially, in the awake of policy programs focusing on education for female child and spread of Information technology. In addition, the BPO and other ITES sectors are on rise and once the females become Internet savvy in India, they can turn out to be good customers for the banks with high probable usage.
+Results reveal that a significant portion of the frequent (1-5 times a month) Internet banking users (37.8%) is a graduate followed by postgraduates who use Internet banking not more than 10 times a month. Interestingly, the professionals’ category is not the frequent user. After combining the categories of professionals and post graduates, it is established that they are the second grade users of internet banking though not using beyond 1-10 times a month (Table 2).
+The study shows that the income groups 2 and 3 {Less than Rs. 15,000 and Between Rs.15000-30000} are frequent users of the Internet banking. Research conducted by Ekos Research Associates Inc. Canada indicates that use of electronic banking is a positive function of income levels. However, Indianconditions are different from those of developed countries therefore it is difficult to generalize. None the less, the findings have strategic implications for the banks since their reference group is somewhat different as noticed during the interviews with the bankers.
+
+Acceptance of internet banking
+	Frequency	Percentage
+Yes	79	39.5
+No	121	60.5
+Total	200	100
+Hence the study was done to find out whether the demographic profile has an influence
+on the acceptance and non-acceptance of internet banking.
+
+Consumer Behavior and Concerns: Satisfaction
+The overall satisfaction scores of the respondents obtained on a scale of 1-10 on various measurable variables and tested for F-ratios reveals that satisfaction level differs among income groups, use frequency and banks (F-values - income groups = 11.828; use frequency = 21.165; banks = 9.28). The mean satisfaction levels in case of public sector banks are the lowest. This may be due to late starts, poor infrastructure or lower risk tolerances. Satisfaction levels are comparatively better for private banks because of their strategic business models as mentioned earlier. On the basis of mean scores obtained for incomes groups it may be concluded that the persons having income in the range of 15,000 – 30,000 are highly satisfied compared to others. This was obvious because this is the class, which uses Internet banking frequently. A survey of the Korean customer revealed high Internet banking use and consequently high satisfaction. But, the overall mean scores of satisfaction indicate that in general, Indian consumers are partially satisfied with the Internet banking services.
+
+2.Consumer Behavior and Concerns: Preferences
+The results show that most of the consumers use Internet banking for account information and day-to-day transactions. Examination of the websites of various Internet Banking service providers suggest that websites offering only basic level services and the other facilities like transfer balances, investment in securities, loan and mortgages etc. are not available. It can be concluded that the usage levels can grow once the web sites are equipped with multiple products offering coupled with appropriate infrastructure, which is, as highlighted, the problem of most of the banks in India.
+
+Table 2.1: E-Banking Services of Foreign Banks 
+Banks 	Daily Transactions 	Account Information 	Transfers 	Other 
+	
+ABN Amro Bank 	100% 	100% 	30% 	30% 
+Bank of Punjab 	60% 	80% 	0% 	20% 
+Canara Bank 	100% 	100% 	0% 	0% 
+Citi Bank 	100% 	83% 	50% 	33% 
+HDFC Bank 	62% 	85% 	50% 	33% 
+HSBC 	100% 	0% 	0% 	0% 
+ICICI Bank 	75% 	83% 	8% 	13% 
+IDBI Bank 	86% 	0% 	0% 	0% 
+State Bank of India 	100% 	33% 	0% 	0% 
+Standard Chartered Bank 	100% 	0% 	50% 	0% 
+UTI Bank 	86% 	100% 	14% 	0% 
+
+Table 2.1 reveals that the e-banking services of foreign banks and some flag public sector banks are used primarily for daily transactions and private banks like HDFC, BOP ICICI are lagging.
+Another major use of the e-banking is account information. It is well known that account information has been for many years a major area of concerns from the point of view of customer services. This is one of prominent advantages of Internet banking what bankers revealed. The funds transfer facilities are used mostly in case of private banks and customers of none of the public sector banks were found to be using the Internet banking for this purpose. It was also found that those who use e-banking frequently visit the bank branches only 1-2 times per month. Citibank and ABN Amro bank are popular among their customers for Internet Banking. In general, people are highly concerned about security and therefore they do not rely on the public sector banks for Internet fund transfers.
+Consumer Behavior and Concerns: Consumer Expectations 
+Table 2.2 Expected vs. Actual Performance (Conventional Banking) 
+Parameters 	F-ratio 
+Accuracy (ACC) 	47.593 
+Speed (SPEE) 	13.174 
+Confidentiality (CONF) 	30.311 
+Customization (CUS) 	10.167 
+Ease of Use (EASE) 	22.820 
+Safety (SAFE) 	51.064 
+Empathy (EMP) 	40.384 
+Trust (TRUST) 	101.761 
+
+Table 2.3: Conventional vs. Internet Banking 
+Parameters 	Computed F-ratio 
+Accuracy (ACC) 	9.943 
+Speed (SPEE) 	18.257 
+Confidentiality (CONF) 	3.416 
+Customization (CUS) 	22.804 
+Ease of Use (EASE) 	89.188 
+Safety (SAFE) 	28.641 
+Empathy (EMP) 	62.841 
+Trust (TRUST) 	38.932 
+
+The expected level of performance and the actual performance of the conventional banking system showsa huge gap. The least mean scores of performance for parameters like accuracy, confidentiality, safety and empathy indicate significant dissonance between expectations and performance. However, trust is interestingly found to be a major area of concern. Lesser variances are obtained for speed and customization. Also, the computed value for F-ratio is significant for all parameters except confidentiality. Conclusions derived are- (a) Consumers feel that Internet banking is easier compared to conventional banking; (b) Conventional banking lacks speed especially in case of public sector banks and (c) Ratings on various parameters are comparatively higher in case of frequent users and high-income groups. Deutsche Bank AG (2006) research indicates “speed” as an important driver of Internet Banking. GVU (2004) study indicates that security is an “important factor” for opening Internet bank account followed by convenience (83.1%), availability of variety of features and services (77.1%), attractive interest rates and services charges (74.5%), quick service (72%), familiarity with the bank name and image (68.3%), the actual bank location (42.2%), the size of the bank, in terms of assets (39.4%), and having integrated value-added services from other on-line services and resources (30.2%). The results indicate deviations in context of Indian Consumers.
+
+The results obtained from the perceptual maps generated and cluster trees run for income levels reveal that – (a) Trust is the most important factor in provision of banking services followed by accuracy and confidentiality; (b) Consumers in the high income groups are highly concerned about the safety of transactions in banking though ease of transaction is on the least priority; (c) Speed is an area of concern for the conventional banking system where the consumer rated the least (d) Safety ranking of the conventional banking system was found to rise with the movement to higher income levels; (e) Internet banking has been highly rated the highest by the consumers on the parameters of accuracy though safety is matter of concern; (f) the opinions on ease of transactions and customization in Internet banking are mixed among the consumer groups. This may be because of the access to the computer systems and varied requirements among them. 
+
+Factorial analysis of banking services reveals that the banking services must prioritize and optimize on the group of variables consisting of speed (SPEE), Safety (SAFE), Trust (TRUST), Confidentiality (CONF) and Accuracy (ACC). Another set, which emerges, is Customization (CUS), Empathy (EMP) and Ease (EASE). The logical strategic function for bankers can be expressed as follows: 
+Maximize value(V) = P1(α1 TRUST + α2ACC + α3CONF + α4SPEE + α5SAFE) + P2(α6CUS + α7EMP + α8EASE); P1>P2
+Limiting Variables: Technology (TECH), Investment (INV), Legal Restrictions (LR), Asset Base (A)
+The two main consumer groups, which extract from the clusters and perceptual ratings are – (a) high-income males placing high reliance on safety of transactions and (b) graduates in the middle-income group desiring convenience of banking. Researches also show that the companies would do well if they could find the demographic profile of Internet users, which would help them devise strategies accordingly. The use and resulting profits of the Internet banking depends upon the brand positioning, level of services offered and consumers targeted. It can be concluded that from the consumer’s perspective, apart from speed and convenience, there are certain other factor like trust, safety and confidentiality are of paramount importance, which unless focused cannot maximize value to the customer, at least, in Indian context.
+
+3.The current state of Internet banking services offered by private, public and foreign banks operating in India
+Presently there are 30 private sector banks (21 old and 9 new), 27 public sector banks and 36 foreign banks operating in India. The research studies the current state of Internet banking services offered by private, public and foreign banks operating in India. Almost all the banks are having websites; however, only 48 banks are providing transactional banking services in one form or the other which represents nearly 17 percent of total Scheduled commercial banks operating in India. Table 3.1 and 3.2 shows the adoption rates of the Internet banks.
+
+
+Table 3.1
+Internet Banking and Scheduled Commercial Banks
+	Number	Percentage of all scheduled Commercial Banks(289)
+Banks with Websites	90	31.1
+Banks with Transactional Sites	48	16.6
+
+Table 3.2
+Adoption Rates of Internet Banks (As on March 31, 2015)
+	Number of Banks	Number of Banks with websites	Number of Internet Banks	Internet Banks as a % of banks in category	Number of Banks with Transactional Sites
+Private sector Banks
+New
+Old	30
+
+9
+21	28
+
+9
+19	17
+
+7
+10	60.7
+
+100
+47.6	15(50.0)
+9(100.0)
+6(28.6)
+Public Sector Banks
+SBI Group
+Nationalized	27
+
+8
+20	27
+
+8
+20	26
+
+8
+18	92.8
+
+100
+90	13(48.1)
+Foreign Banks 	36	35	6	20.7	20(55.6)
+All banks 	93	90	49	57.6	48(51.6)
+
+New private sector bank includes banks established after the liberalization reforms as recommended by Narsimham Committee in 1991.
+Old private sector bank includes banks established before the liberalization reforms as recommended by Narsimham Committee in 1991.
+
+Figures in bracket denote the percentage of number of fully transactional web sites to total number of commercial banks in India.
+As evidenced from Table 3.2, number of banks offering Internet banking services in one form or the other are 48, however, only 34 banks provide Internet banking in true sense which represents only 36 percent of total commercial banks (Table 3.3). Out of total public sector banks nearly 15 percent banks offer fully transactional banking services while 33 percent of private sector banks and 55 percent of foreign banks are offering fully transactional Internet banking services.
+
+ 
+
+There are 25 foreign banks offering Internet banking services in different countries in one form or the other. However, the Internet banking services of four foreign banks out of 20 which are providing Internet banking services in India were not accessible through their websites either due to language problem or the other. As all the 16 banks offering internet banking services in India are fully transactional banks therefore it was assumed that the other 4 banks are also fully transactional banks. However for the purpose of studying the range of services offered by Internet banks in India in the present study, only 16 foreign banks were studied.
+ 
+Although only a minority of banks offers Internet banking, as Table 3.5 shows, the banks offering these services accounted for most of the assets in the Indian commercial banking system. As a group, transactional Internet banks had, on average, 187 percent more assets, 115 percent more employees, and 60 percent more offices and 157 percent more deposits than non-Internet national banks.
+Internet and Non-Internet Banks: Comparison of Performance
+Evaluating bank performance is a complex process that involves assessinginteraction between the environment, internal operations and external activities
+
+
+
+Table 3.5
+Comparison of Key Attributes of Internet Banks and Non-Internet Banks
+	Internet Banks	Non Internet Banks
+Average size	23970.17	8336.788
+Average number of offices per bank	698	436
+Average number of employees	12179	5645
+Deposits	18252.74	7096.749
+
+
+	Internet banks as a % of all commercial banks
+Number of banks	51.6
+Assets	75.4
+Deposits	73.3
+
+Range of Services Offered by Transactional Internet Banks
+As shown in Table 3.6, nearly 68 percent of the transactional banks provide BASIC services of Internet banking. 96 percent of the transactional banks provide account balance enquiry service. More than 70 percent of the transactional banks offer the services of funds transfer between accounts and electronic bill payment. However foreign transactional banks are more likely to provide these services as compared to private and public transactional banks. More number of Foreign and private banks also provide third party fund transfer facility as compared to public sector banks.
+
+Table 3.6 Range of Services Offered by Transactional Internet Banks (Percentage of transactional banks offering selected services)
+Service code	Type of services	All banks	Public sector bank	Private sector banks	Foreign sector banks
+1.	Balance enquiry	95.5	92.3	93.3	100
+2.	Funds transfer	77.3	38.5	86.7	100
+3.	Bills payment	75.0	46.2	73.3	100
+4.	Third party transfer	45.5	30.8	53.3	50
+5.	Opening accounts	40.9	15.4	26.7	75
+6.	Receive alerts	29.5	15.4	40	31.25
+7.	Requests and intimations	79.5	76.9	93.3	68.75
+8.	Cash management online	9.1	15.4	6.7	6.25
+9.	E-shopping	38.6	15.4	53.3	43.75
+10.	Credit card payment	22.7	23.1	13.3	31.25
+11.	Standing instructions	81.8	84.6	93.3	68.75
+12.	Loan applications	29.5	7.7	33.3	43.75
+13.	Customer correspondence	100	100	100	100
+14.	Insurance	6.8	0.0	6.7	12.5
+15.	Demat holdings	25	0.0	53.3	18.75
+16.	Brokerage	4.5	0.0	6.7	6.25
+17.	Investments	22.7	0.0	26.7	37.5
+18.	Online remittance of funds	11.4	0.0	20	12.5
+19.	Tax advisory service	13.6	0.0	33.3	6.25
+20.	Financial planning	34.1	0.0	40	56.25
+21.	Linking a/cs online	4.5	0.0	6.7	6.25
+22.	Market news online	6.8	0.0	6.7	12.5
+23.	Trading online	18.2	0.0	26.7	25
+24.	Foreign exchange trading	2.3	0.0	6.7	0.0
+25.	Foreign exch. Rates update	27.3	7.7	20	50
+26.	Tds enquiry	9.1	0.0	20	6.25
+27.	One view a/c	4.5	0.0	6.7	6.25
+28.	Net worth statement	4.5	0.0	0.0	12.5
+29.	Privacy statement	84.1	61.5	100	87.5
+30.	Demonstration of I-Banking	65.9	61.5	60	75
+	BASIC	68.2	30.8	66.7	100
+	PREMIUM	68.2	30.8	66.7	100
+
+Basic includes balance enquiry, fund transfer and bill payment.
+Premium includes Basic and at least three other services.
+
+A look at Internet banking services beyond balance enquiry, funds transfer and bill payment reveals the pattern of what is offered by banks of different categories. As far as the services of providing customer correspondence are concerned there is no difference among the banks.
+Nearly 41 percent of the banks provide the service of new account set up. However private sector and public sector banks lag behind foreign banks in providing this service. Similarly in respect of the services of online trading, Demat holdings and E-Shopping the private sector banks outperformed the foreign as well as public sector banks. It is a determinant of how well the private sector banks compete with the foreign and public sector banks for business customers.
+Table 3.6 also contains information on the extent to which particular business lines- loan applications, credit card payment, financial planning, online insurance, brokerage, financial planning, linking of accounts i.e. one can view all the accounts in the same bank in one statement, providing market news and net worth statement online and investment trading- were offered. A large number of foreign banks offer these services than the private and public sector banks.
+However foreign transactional banks are inefficient in providing the services like Demat holdings, E-shopping and the services of providing standing instructions and handling requests and intimations. However there are some new Internet banking services which are offered by foreign banks including recurring transfer of funds between the accounts, providing the net worth statement to the customers and the services of financial planning. The position of public sector banks is worst in case of providing the range of internet services and products. No public sector bank provide the services of Demat Holdings, Brokerage, Investments, Online Remittance of Funds, Tax advisory service, Financial Planning, Linking A/C, Online Market News, Online Trading, Foreign Exch. Trading, Tds Enquiry, One View a/c and providing Net Worth Statement.
+Nearly 75 percent of the foreign transactional banks provide demonstration of the internet banking on their web sites. While 60 percent of private and nearly 62 percent of public sector banks did so. All the transactional banks provide customer correspondence for the purpose of gaining new and retaining their existing online customers.
+To gain a clear picture of the range of Internet services available at banks of different sizes, two “menus” of Internet banking services are defined. BASIC Internet banking is defined as the three core Internet banking services: balance enquiry, funds transfer and bill payment. PREMIUM Internet banking is defined as BASIC plus at least three other services. Foreign banks are offering BASIC as well as PREMIUM Internet banking services. All the foreign transactional banks provide BASIC as well as PREMIUM Internet banking products. While only 67 percent of the private transactional banks and 31 percent of public transactional banks offer PREMIUM and BASIC Internet banking services.
+The major concern for the adoption of Internet banking presently is the level of security or risk associated with it. Both banks and customers stand to benefit from the collection and integration of large amounts of personal information over the Internet that enhance the ability of the banks to offer a wide range of products according to the individual demands. But the collection, analysis and distribution of information raise questions related to protecting personal privacy. A fundamental step many banks are taking to address on-line privacy is to post a statement of their policies about the collection and use of customer information. The database includes information on the number of transactional banks that had such a statement on their web sites.
+Table 3.6 shows that most of the transactional banks included a privacy policy statement on their web sites. Indeed, 100 percent of the private sector banks include privacy statement on their web sites. And nearly 88 percent of the foreign banks and 62 percent of public sector banks did so.
+
+4. Internet and Non-Internet Banks: Comparison of Performance
+This chapter makes the use of univariate comparisons between Internet and non-Internet bank characteristics. In comparing transactional Internet banks to non-Internet banks, as Tables 4.1, 4.2, and 4.3 illustrate, by Q4 2015 differences between Internet and non-Internet banks had begun to emerge in funding, in sources of income and expenditures and in measures of performance. For each pair of observations in a table, a probability (p) value is provided for the hypothesis that the means in the Internet and non-Internet samples are the same. A lower p-value indicates a greater likelihood that the two figures compared represent real differences between categories of banks (Internet vs. non-Internet, etc.).
+
+Table 4.1 Financing Pattern of Internet and Non-Internet Commercial Banks
+	Deposits/Assets	Purchased funds/Deposits
+Private Sector Banks
+ Internet Banks
+ Non-Internet Banks
+                                 p-value	
+65
+87.8
+(0.29)	
+27.1
+1.6
+(0.10)
+Public Sector Banks 
+Internet Banks
+ Non-Internet Banks
+ p-value	
+83.1
+86.3
+(0.94)	
+2.3
+1.6
+(0.82)
+Foreign Banks 
+Internet Banks
+ Non-Internet Banks 
+p-value	
+60
+56.7
+(0.86)	
+33
+33
+(0.18)
+All Banks 
+Internet Banks 
+Non-Internet Banks 
+p-value	
+78
+85.8
+(0.41)
+	
+7.9
+2.1
+(0.11)
+
+Table 4.2 Income and Expenses
+	Income%	Expenses%
+	Non-interest income/Net Operating Revenue	Premises and Fixed Assets/Net Operating Revenue
+Private Sector Banks
+ Internet Banks
+ Non-Internet Banks
+                                 p-value	
+53.8
+45.1
+(0.51)	
+78.5
+24.1
+(0.11)
+Public Sector Banks 
+Internet Banks
+ Non-Internet Banks
+ p-value	
+36.3
+36.4
+(0.31)	
+17.4
+19.8
+(0.64)
+Foreign Banks 
+Internet Banks
+ Non-Internet Banks 
+p-value	
+45
+34.5
+(0.38)	
+30.5
+41.2
+(0.36)
+All Banks 
+Internet Banks 
+Non-Internet Banks 
+p-value	
+40
+37.7
+(0.44)	
+28.1
+21
+(0.55)
+
+
+
+
+Table 4.3 
+Comparison of Performance of Internet Banks and Non-Internet National Banks(Q4 2015)
+	Profitability
+(%)	Accounting Efficiency (%)	Credit Quality
+ (%)
+	Return on Equity	Non- interest Expenses to Net Operating Revenue	Non-current Loans to Total Loans
+Private Sector Banks
+ Internet Banks
+ Non-Internet Banks
+    p-value	
+14
+21.6
+(0.083)	
+54.2
+41
+(0.719)	
+71.1
+39
+(0.189)
+Public Sector Banks 
+Internet Banks
+ Non-Internet Banks
+ p-value	
+18.4
+19.7
+(0.945)	
+49
+50.4
+(0.714)	
+39.1
+39.8
+(0.828)
+Foreign Banks 
+Internet Banks
+ Non-Internet Banks 
+p-value	
+16
+0.1
+(0.268)	
+45.5
+59.7
+(0.721)	
+48.5
+45.8
+(0.807)
+All Banks 
+Internet Banks 
+Non-Internet Banks 
+p-value	
+17.2
+18.3
+(0.282)	
+49.3
+49.2
+(0.713)	
+46.1
+39.8
+(0.463)
+
+
+
+Financing Pattern, Income and Expenses
+Table 4.1 shows major financing characteristics of Internet and non-Internet banks. Overall, Internet banks generally are less reliant on core deposits for funding and make greater use of purchased funds relative to deposits. However, the difference is significant in case of private sector banks only.
+Non-Internet banks include banks with non-transactional Web sites.
+Differences in the business strategies of Internet and non-Internet banks also are evident in Table 4.2. The first column shows the ratio of non-interest income to net operating revenue, which is a rough proxy for the amount of revenue generated by “nontraditional” activities. Internet banks generated a substantially higher proportion of their income—roughly speaking, about 40 percent more—from non-traditional activities compared to non-Internet banks. This pattern is consistent with a business strategy of using the Internet to target businesses and more affluent consumers, with the belief that these customers will be interested not only in loans but also in other services that yield fee income.
+In addition to revenue enhancement, Internet banking may enable banks to reduce costs of operation, in particular, by allowing them to reduce expenditures on premises and fixed assets. To the extent this may be so, Internet banking could be considered a causal factor in generating lower expenses related to maintaining physical branches. On the other hand, banks with relatively high expenses in maintaining their branch networks may be expected to have the greatest incentive to adopt Internet banking. The adoption of Internet banking would thus be the effect of existing characteristics of banks.
+The data in Table 4.2 show that, consistent with the first hypothesis, Internet banks in public sector and foreign sector had lower expenses for building and equipment relative to net operating revenue. Among the private sector Internet banks, building and equipment expenditures were higher than for non-Internet banks. This difference may indicate that private sector banks with high costs of maintaining a branch network are motivated to adopt Internet banking by the prospect of future cost savings.
+Non-Internet banks include banks with non-transactional Web sites.
+However most of the private Internet banks are established after the liberalization process started in 1991. Newness may also be the reason for high cost of building and equipment expenditures. Further research can establish whether Internet banking is likely to reduce costs associated with physical branch networks, and whether relatively high branch-related expenses are a causal factor in the adoption of Internet banking.
+Performance Analysis
+Table 4.3 compares the profitability, efficiency, and credit quality of Internet banks compared to non-Internet banks as on December 31, 2015. Internet banks in foreign sector are more profitable than non-Internet banks; however, Internet banks in the private sector are significantly less profitable than non-Internet banks. The Internet banks in public sector are also less profitable than non-Internet banks. However there is no significant evidence. Internet banks in private sector also are less efficient than non- Internet banks, as measured by the ratio of noninterest expense to net operating revenue (“accounting efficiency”), a commonly used measure of cost efficiency.
+There was no statistically significant difference between the accounting efficiency of Internet and non-Internet banks in all categories. Internet banks don’t have better credit quality than non-Internet banks. There is no significant difference between the credit quality of Internet and non-Internet banks, as measured by the ratio of non-current loans to total loans.Non-Internet banks include banks with non-transactional Web sites.
+
+5. Impact of Internet Banking on Bank Profitability
+Although, we find in our univariate analysis, overall lesser performance by banks in Internet group relative to non-Internet group, however, we know that it is hard to make any conclusive statement on the actual impact of the Internet adoptions on bank performance without a multivariate analysis. Thus, here a multivariate regression model is estimated to investigate whether there is a link between offering Internet banking and a banks’ profitability. A banks’ ROE as on Q4 2014 is regressed against control variables and a variable denoting whether or not a bank offers Internet banking.
+A dummy variable INTERNET was created that equals 1 if the bank offered Internet banking in Q4 2015, and it is included as a regressor in explaining ROE. If Internet banking remains too small a factor to affect bank profitability, then the coefficient on this variable will not be statistically significant.
+Table 5.1 presents the results of ordinary least-squares regressions using various regressors to explain ROE, both for all commercial banks (columns 1 through 3), private sector banks (columns 4 through 6), public sector banks (columns 7 through 9) and for foreign banks (columns 10 through 12). Column 1 enters only the INTERNET variable in the regression. This column reports only the simple correlation between Internet banking and profitability without controlling for other relevant factors. The results indicate no simple correlation between Internet banking and profitability. Columns 2 and 3 check whether the finding of no relationship between Internet banking and profitability is strong when controlling for factors commonly used in models estimating profitability. The control variables in specification 2 include total assets (ASSETS), the equity capital-to-assets ratio (CAPASSETS) and the loan-to-assets ratio (LOANASSETS). Column 3 expands the control variables to include the ratio of noninterest income to net operating revenue (NIINCOME), the ratio of expenditures on premises and fixed assets to net operating revenue (EXPENSES), the measure of accounting inefficiency (INEFFICIENCY), and the ratio of non-current loans to total loans (CREDQUAL). All the explanatory variables are measured as of March 31, 2003. Both columns indicate no relationship between the existence of Internet banking and profitability.
+
+
+
+Table 5.1 Determinants of Profitability: A Step-wise Regression Analysis
+Variable 	All banks 	Private sector banks	Public sector banks	Foreign banks
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)
+Internet
+       p-value	-.11
+(.28)	-.10
+(.32)	-.10
+(.32)	-.321
+(.08)	-.40
+(.05)	-.05
+(.72)	-.01
+(.94)	-.02
+(.88)	-.05
+(.78)	.19
+(.26)	.04
+(.78)	.04
+(.78)
+Assets
+       p-value		.16
+(.11)	.16
+(.11)		.16
+(.41)	.16
+(.27)		-.11
+(.51)	-.02
+(.88)		.45
+(.00)	.45
+(.00)
+Capassets
+       p-value		-.12
+(.29)	-.12
+(.29)		.22
+(.42)	-1.05
+(.00)		-.50
+(.00)	-.39
+(.03)		-.05
+(.74)	-.05
+(.74)
+Loans
+       p-value		.20
+(.04)	.20
+(.04)		.22
+(.41)	-.08
+(.71)		.18
+(.38)	.28
+(.12)		.04
+(.79)	.04
+(.79)
+Niincome
+       p-value			-0.9
+(.39)			-.39
+(.03)			-.05
+(.76)			-.10
+(.50)
+Expenses
+       p-value			-.13
+(.20)			-.33
+(.08)			-.28
+(.16)			-.11
+(.45)
+Inefficiency
+       p-value			-.17
+(.09)			-.74
+(.02)			-.46
+(.01)			-.22
+(.13)
+Credqual
+       p-value			-.03
+(.75)			.22
+(.18)			-.00
+(.97)			-.14
+(.38)
+Number of Observations	93	93	93	30	30	30	27	27	27	36	36	36
+R Square	.01	.04	.04	.103	.15	.56	.014	.25	.22	.03	.206	.206
+F	1.17	4.08	4.08	3.22	1.14	8.08	.005	8.50	7.04	1.27	8.81	8.81
+
+Dependent variable: Return on equity (ROE)
+Column 4 is again the simple correlation between Internet banking and ROE for private sector banks. The result indicates significant correlation between Internet banking and profitability with a p-value of 5 percent. This significance remains even when other control variables are added in as shown in column 5. Column 5 follows Enter Method of Regression analysis. However the significance of internet banking disappears when all the control variables are entered in as shown in column 6. There is no correlation between Internet banking and profitability in case of public sector banks as well as foreign banks as shown by Columns 7 to 9 and columns 10 to 12 respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter-5
+
+FINDINGS
+
+The main findings can be summarized as follows:
+
+• Only 17 percent of scheduled commercial banks offered Internet banking in the fourth quarter (Q4) of 2015. However among the commercial banks 51.6 percent offered internet banking. As a group these Internet banks accounted for almost 75 percent of commercial banking system assets and 73 percent of deposits account.
+
+• Among the public sector banks 48 percent of banks offered internet banking, however only 15 percent offered fully transactional internet banking. Among the private sector banks 50 percent of banks offered internet banking, however only 33 percent of banks are fully transactional banks. Similarly 55 percent of foreign banks offered internet banking and all are fully transactional banks.
+
+• Foreign and private Internet banks offered a broad range of services over the Internet. Public sector banks lag behind in offering wider range of internet banking services and products.
+
+• Overall, Internet banks generally are less reliant on core deposits for funding and make greater use of purchased funds relative to deposits. However, the difference is significant in case of private sector banks only.
+
+• Internet banks generated a substantially higher proportion of their income from non-traditional activities compared to non- Internet banks. However there is no significant evidence to prove it.
+
+• Overall internet banks were having higher premises and fixed assets expenditure. Thus banks with relatively high expenses in maintaining their branch networks may be expected to have the greatest incentive to adopt Internet banking. The private sector banks were having higher premises and fixed assets expenditure. However there is no statistical significance to show the relation between offering of internet banking and higher premises and fixed assets expenditure. A major reason of their less profitability may be the newness of the banks.
+
+• Internet banks in foreign sector are more profitable than non-Internet banks; however, Internet banks in the private sector are significantly less profitable than non-Internet banks. The Internet banks in public sector are also less profitable than non-Internet banks.
+• There is no statistical significant difference between the Internet and non-internet banks with respect to accounting efficiency and credit quality. However, private sector Internet banks are more efficient than private non-internet banks.
+
+• For all banks, Internet banking is not a significant determinant in explaining the profitability. The impact of internet banking is significant in case of private sector banks only. Though the univariate analysis shows that the average ROE of private Internet banks is less than non-Internet banks, the difference may be attributed to high premises and fixed assets expenditure (EXPENSES), high non-interest expenses (INEFFICIENCY) and high non-current loans (CREDQUAL). However this significance also disappears when all the control variables are added in.
+
+• Most of the growth in Internet banking in India is due to private sector and foreign banks operating in India.
+
+• Most of the market is still untapped in India. There is a lot of scope for banking institutions to expand their Internet banking services to have a more sophisticated customer base.
+	
+
+
+
+
+
+
+RECOMMENDATIONS
+
+1.	Security Organization: Organizations should make explicit security plan and document it. There should be a separate Security Officer / Group dealing exclusively with information systems security. The Information Technology Division will actually implement the computer systems while the Computer Security Officer will deal with its security. The Information Systems Auditor will audit the information systems.
+
+2.	Popularize the Internet Banking: The banks should emphasize more on popularizing internet usage by customers which results into improvement in customer satisfaction and also cost reduction. As the use of Internet is increasing day by day so the internet banking is also rapidly followed by the customers. To make e-payment services more adaptable among the customers banks should provide more services through internet banking for query as well as for transaction purpose. To increase the popularity of e-payment among customers. RBI should stop physical cheque clearance beyond a certain amount say INR 5 lakhs or INR 10 lakhs. So transactions that are conveniently go through electronic channels should be priced higher for paper based clearing.
+
+3.	Security Infrastructure: At present, PKI is the most favored technology for secure Internet banking services. However, it is not yet commonly available. While Infrastructure is strongly recommended, during the transition period, until IDRBT or Government puts in the PKI infrastructure, the following options are recommended
+•	Usage of SSL, which ensures server authentication and the use of client side certificates issued by the banks themselves using a Certificate Server.
+•	The use of at least 128-bit SSL for securing browser to web server communications and, in addition, encryption of sensitive data like passwords in transit within the enterprise itself.
+
+
+4.	Penetration Testing: The information security officer and the information systemauditor should undertake periodic penetration tests of the system, which should include:
+•	Attempting to guess passwords using password-cracking tools.
+•	 Search for back door traps in the programs.
+•	Attempt to overload the system using DDOS (Distributed Denial of Service) & DOS(Denial of Service) attacks.
+•	Check if commonly known holes in the software, especially the browser and the emailsoftware exist.
+•	The penetration testing may also be carried out by engaging outside experts (oftencalled ‘Ethical Hackers’).
+
+5.	Back up & Recovery: The bank should have a proper infrastructure and schedules forbacking up data. The backed-up data should be periodically tested to ensure recoverywithout loss of transactions in a time frame as given out in the bank’s security policy.Business continuity should be ensured by having disaster recovery sites where backedupdata is stored. These facilities should also be tested periodically.
+
+6.	Monitoring against threats: The banks should acquire tools for monitoring systemsand the networks against intrusions and attacks. These tools should be used regularly toavoid security breaches.
+
+7.	Education: They should educate on a continuous basis their security personnel and also the end-users. The major reason of slow pace adoption of electronic mode of fund transfer particularly in the retail segment is lack of education particularly on the part of bank staff. There are several branches in the state which are not even aware of national electronic fund transfer system. So banks need to increase the degree of awareness atEFT/NEFT should also be used for bill payments like mobile bills, telephone bills,electricity bills as millions of customer required such kind of services. Further itshould also cover the LIC policies premium and payment. MICR code with branch,bank, location is familiar to millions of account holders in the country but shifting toIFSC code (Internally used within the system) from MICR code is quite difficult forthe customers to understand so still IFSC code gain the popularity both code must coexist.
+
+8.	Certified Products: The banks should use only those security solutions/products which are properly certified for security and for record keeping by independent agencies (such as IDRBT).
+
+9.	Approval for I-banking: All banks having operations in India and intending to offer Internet banking services to public must obtain an approval for the same from RBI. The application for approval should clearly cover the systems and products that the bankplans to use as well as the security plans and infrastructure. RBI may call for variousdocuments pertaining to security, reliability, availability, auditability, recoverability, andother important aspects of the services. RBI may provide model documents forSecurity Policy, Security 
+Architecture, and Operations Manual.
+
+10.	Standing Committee: RBI may set up a standing Committee to monitor security policy issues and technologies, to review prescribed standards, and to make fresh recommendations on a regular basis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitations of the Study
+
+1.	. The information about the various services and products of Internet banking being offered by the banks in India has been explored from the web sites of the banks only. No other information source has been availed. Whatever the information was available on the websites of the banks has been used for the purpose of present study.
+2.	Time was the major limitation, which may have affected the inferences drawn in the study.
+3.	 The sample taken for the purpose of study comprises only commercial banks operating in India.
+4.	 Only important products and services of Internet banking are studied. The Internet banking products and services used for this study are not concluding.
+5.	Lack of a critical mass of early adopters of security and trust technology among bankers operating in India to drive the transition from bricks and mortar to internet banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONCLUSION
+
+It is concluded from the above study that the Internet banking is a remarkable development in the banking sector. The ability to carry out banking transactions through the Internet has empowered customers to execute their financial transactions within the comfort of their homes. Internet banking provides benefits both bankers and customers alike. For the bankers this system is cost-effective, as it has considerably reduced the administrative costs and paperwork related to the transactions. Besides, banks can also cater to the needs of thousands of customers at the same time. Conventional banking has always been slow and time consuming. But, Internet banking has tremendously reduced the time required to process banking transactions, thereby making banking faster and convenient. With many other advantages the greatest advantage of Internet banking lies in the fact that customers are no longer required to wait in those long and wearisome queues of the banks to request a financial transaction or statement. With the help of Internet banking, customer can access any information regarding their account and transactions, any time of the day. Therefore, customer can regularly monitor their account as well as keep track of financial transactions, which can be of immense help in detecting any fraudulent transaction. In addition to this, fund transfers, both national and international, have also become faster and convenient. There are lots of advantages of Internet Banking services like; time saving, minimum efforts, cost saving, easiness and many more. But, most of the people in India especially in the rural and semi-urban areas are not using these services. This study was focused on to semi-urban areas customer’s perception towards impeding the usage of Internet banking and in this study identified nine factors i.e. cost, reliability, processing barriers, security issues, technological incontinence, lack of infrastructure, conventional approach, risk and resistance. To increase the use of Internet banking in semi-urban areas carrying out Internet banking properly, a basic knowledge of computers and the Internet is required, which limits the number of people willing to avail this facility as till date 40% of India population still stay in village where internet development is moving at very steady rate hence it is most important to develop Internet Banking services in remote areas of India. Many people, who are not comfortable with computers and the Internet, often find it difficult to use internet banking. Therefore, for beginners, Internet banking is really time-consuming process. In addition to this, people also find a difficulty in trusting a completely mechanized system like Internet Banking, in case of financial matters. In many instances, a simple mistake, like clicking a wrong button, may create a big problem. However, this uneasiness can be avoided by printing the transaction receipt and keeping it with oneself, until the bank statement is received.
+ However, with the advances in technology, many banks have taken the adequate measures to ward off any problems related to the security of internet banking and providing easy way to access it. The present study is an attempt to present the present status of Internet banking inIndia and its implications for Indian banking industry. A survey of the bank websites during the period of June, 2017 reveals that only69 percent of the commercial banks operating in India as on March end 2016 offer Internet banking. Using dataon the financial performance, the present study also analyzed the performance ofan Internet group in comparison to non-Internet banking group and impact ofInternet banking on banks’ performance and risk. A panel data of 85 banks
+(operating as on March end 2017) was taken for the period of 2011-2017.
+The analysis indicates several significant differences in the profile of banks that offer Internet banking and banks that do not. Broadly speaking, on an average, Internet banks are larger, more profitable and are more operationally efficient than on-Internet banks. Internet banks have higher asset quality and are better managed to lower the expenses for building and equipment. In contrast to developed countries Internet banks in India rely substantially on deposits, the
+Traditional source of financing.
+Last, but not the least, attempt was made to see if there is any association between adoption of Internet banking and the banks’ performance and risk. The evidence reveals no significant association between adoption of Internet banking by banks and their performance. However, Internet banking has a negative and significant impact on profitability of private sector banks particularly new private sector banks. Thus, adoption of Internet banking was a reason behind the lower profitability of these banks, as Internet banks in new private sector were operating with higher cost of operations, including fixed cost and labor cost, thus affecting negatively the profitability of these banks. On the other hand, internet banking has a negative and significant impact on risk, which shows that, the adoption of Internet banking has not increased the risk profile of banks.
+As the Indian banking is in transition phase as it enters in Internetbanking two things stand out – 
+• Using Less Paper 
+• Doing Transaction Wirelessly 
+By designing and offering simple, safe and secure technology, banks reach at the doorsteps of the customers with an objective of “delight customer satisfaction”. In fact Information technology has succeeded in creating a win- win situation for all concerned segments in India.
+Internet banking seems poised to become an important part of the Indian banking sector in the years to come. As because of current government (from 2014 i.e. BJP) and government policies, the use of internet and technology in all sectors increasing, also in banking sector.The banking today is re-defined and re-engineered with the use of Information Technology and it is sure that the future of banking will offer more sophisticated services to the customers with the continuous product and process innovations. Thus, there is a paradigm shift from the seller's market to buyer's market in the industry and finally it affected at the bankers level to change their approach from "conventional banking to convenience banking" and "mass banking to class banking". The shift has also increased the degree of accessibility of a common man to bank for his variety of needs and requirements. Analysts claim that Internet banking holds lots of potential with the emergence of growing Internet awareness among customers, integration of banking services with e-commerce service, the increasing reach of the Internet and the entry of global players in the banking sector. Reserve Bank of India has come out with Internet banking related guidelines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCE
+
+Reference Books
+1.	Malhotra, P.,& Singh, B.(2007), “Determinants of Internet Banking adoption by banks in India”, Journal of Internet Research, Emerald group Publishing Ltd., vol. 17, Iss. 3, pp.323-339.
+2.	Awa mleh, R. (2006), “Diffusion of Internet Banking amongst educated consumers”, Journal of Internet Banking and Commerce, Vol. 11, Iss.
+
+
+
+Websites
+www.rbi.com
+
+
+
+
+
+
+
+
+
+
+
+
+ANNEXURE
+Questionnaire:-
+
+1.	Name of the customer:-………………………………….
+
+2.	Gender…………………………………………………..
+
+3.	Frequently Usage of Internet Banking in a month
+•	Never………………………
+•	1-5………………………….
+•	6-10…………………………
+•	10-15……………………….
+•	16-20………………………..
+•	Above 20……………………
+
+4.	Educational Background
+•	Under -Graduate……………….
+•	Graduate……….……………
+•	Post- Graduate……………….
+•	Professionals…………………
+
+5.	Do you like  Internet-banking
+a.	Yes………………………………………….
+b.	No…………………………………………..
+
+
+6.	Tick which bank you preferred… 
+a.	ICICI……………………………………………….
+b.	SBI…………………………………………………
+c.	Axis………………………………………………...
+d.	HDFC………………………………………………
+e.	PNB………………………………………………… 
+f.	Any Other…………………………………………..
+
+7.	Why this bank
+a.	Service is good………………………….
+b.	They provide security ………………….
+c.	Cheaper service fees…………………….
+
+8.	Which type of service mostly you use?
+a.	 Online Bill Payments ……………………..
+b.	Transfer fund online……………………….
+c.	Online shopping……………………………
+d.	A and B…………………………………….
+e.	B and C…………………………………….
+f.	A and C…………………………………….
+g.	All………………………………………….
+h.	None……………………………………….
+
+9.	Services of the bank are…. 
+a.	Poor…………………………..
+b.	Good…………………………
+c.	Very good……………………
+
+10.	Are you satisfied with the using of E-banking?
+a.	Yes……………………
+b.	No………………….
+
+
