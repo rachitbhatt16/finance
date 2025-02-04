@@ -1,10 +1,25 @@
-![Table_1](https://github.com/user-attachments/assets/87fd9f39-5f9f-490d-bca5-255f8ca674a3)
-![Table_1](https://github.com/user-attachments/assets/5342d9d2-05d1-4587-9598-17b8454049c0)
-![Table_5](https://github.com/user-attachments/assets/6fdcccf0-5f04-4803-9da4-fb765cbfcb4b)
-![Table_5](https://github.com/user-attachments/assets/0f1a8f1e-8649-4ca8-a801-3d8c314f6f50)
-![Table_4](https://github.com/user-attachments/assets/1f40fe6c-0848-4c36-a103-9520230c757a)
-![Table_4](https://github.com/user-attachments/assets/9aa275cd-184f-4d26-89ae-0f56faa38aa1)
-![Table_3](https://github.com/user-attachments/assets/2804bc15-70e2-4f07-8787-89fc01c37185)
-![Table_3](https://github.com/user-attachments/assets/bfe0ca09-01e9-43d7-ae59-2b79032f6f19)
-![Table_2](https://github.com/user-attachments/assets/44378922-6f7d-4356-8164-9c8ff39b2832)
-![Table_2](https://github.com/user-attachments/assets/fbec538d-87b1-427e-bb9b-6fe07a878595)
+🚀 How to Use
+
+Clone the repository:
+
+git clone https://github.com/rachitbhatt0016/impact-of-internet-banking-system.git
+
+Navigate to the project folder:
+
+cd impact-of-internet-banking-system
+
+Open the Jupyter notebook for analysis:
+
+jupyter notebook analysis/Data_Analysis.ipynb
+
+📋 License
+
+This project is licensed under the MIT License.
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📬 Contact
+
+Rachit Bhatt📧 rachitbhatt0016@gmail.com📞 8595371648
